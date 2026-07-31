@@ -1,0 +1,16 @@
+{
+  "name": "grantgpt-plugins",
+  "owner": {
+    "name": "Mike Welsh"
+  },
+  "plugins": [
+    {
+      "name": "grantgpt",
+      "source": "./",
+      "description": "Advice from Grant, Trident Sensing's know-it-all mechanical engineer. Ideas that will 100% work. PTO request pending.",
+      "version": "1.0.0",
+      "keywords": ["fun", "persona", "slash-command", "trident-sensing"],
+      "category": "fun"
+    }
+  ]
+}
